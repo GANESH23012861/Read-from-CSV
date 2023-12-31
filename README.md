@@ -17,8 +17,8 @@ Print the output and end the program.
 ## PROGRAM:
 ```
 #Program to read contents from a csv file
-#Developed by : Arun Kumar B
-#RegisterNumaber : 212223230021
+#Developed by : Selvaganesh
+#RegisterNumaber : 23012861
 import pandas as pd
 df=pd.read_csv('cars.csv')
 print(df.head(10))
@@ -29,7 +29,7 @@ print(df.shape)
 ```
 
 ## OUTPUT:
-![Screenshot 2023-12-31 074957](https://github.com/Arun2005-create/Read-from-CSV/assets/138849356/72917b29-728c-4bc3-8500-edc01d3ef183)
+![image](https://github.com/GANESH23012861/Read-from-CSV/assets/147139861/d88b08bd-93c2-48da-87e8-dc2a08689802)
 
 ## RESULT:
 Thus a python program is written to read the contents of a CSV file.
