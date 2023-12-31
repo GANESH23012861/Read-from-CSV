@@ -1,7 +1,7 @@
 # Read-from-CSV
 
 ## AIM:
-TO write the program to read from csv.
+To write the program to read from csv.
 
 ## ALGORITHM:
 ### Step 1:
